@@ -3,8 +3,8 @@ Contributors: WebFactory
 Tags: links, external links, target blank, new window, new tab
 Requires at least: 4.0
 Requires PHP: 5.2
-Tested up to: 6.6
-Stable tag: 1.44
+Tested up to: 6.8
+Stable tag: 1.45
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,7 +59,9 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 
 == Changelog ==
-
+= 1.45 =
+* 2025-08-04
+* minor code fixes
 
 = 1.44 =
 * 2022-11-22
