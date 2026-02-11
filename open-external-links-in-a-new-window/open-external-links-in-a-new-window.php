@@ -9,7 +9,7 @@
   Text Domain: open-external-links-in-a-new-window
   Requires at least: 4.0
   Requires PHP: 5.2
-  Tested up to: 6.8
+  Tested up to: 6.9
   License: GPL2
 
   Copyright 2015 - 2025  WebFactory Ltd (email: support@webfactoryltd.com)
