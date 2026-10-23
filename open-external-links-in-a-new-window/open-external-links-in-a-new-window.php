@@ -9,10 +9,10 @@
   Text Domain: open-external-links-in-a-new-window
   Requires at least: 4.0
   Requires PHP: 5.2
-  Tested up to: 6.9
+  Tested up to: 7.1
   License: GPL2
 
-  Copyright 2015 - 2025  WebFactory Ltd (email: support@webfactoryltd.com)
+  Copyright 2015 - 2026  WebFactory Ltd (email: support@webfactoryltd.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
